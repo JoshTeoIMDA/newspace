@@ -1,0 +1,40 @@
+h1{
+    color: red;
+    background-color: yellowgreen;
+
+    text-align: center;
+    border: 10px purple dotted;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    margin: 100px;
+    /* this is not a code, for testing only */
+}
+
+/*
+h1{
+    color: red;
+    background-color: yellowgreen;
+
+    text-align: center;
+    border: 10px purple dotted;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    margin: 100px;
+}
+*/
+
+.title{
+    color: red;
+    background-color: yellow;
+
+    text-align: center;
+    border: 10px purple dotted;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    margin: 100px;
+    /* this is not a code, for testing only */
+}
+
+#important{
+    color:black;
+}
